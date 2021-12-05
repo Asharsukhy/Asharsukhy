@@ -7,10 +7,15 @@ I'm 14-year-old boy on an intention to enhance as a successful full-stack web de
 🔭 I’m currently working on my MERN Stack
   
 🌱 I’m currently learning Backend & APIs
+  
 👯 I’m looking to collaborate on Full stack web development
+  
 🤔 I’m looking for help with Backend & APIs
+  
 💬 Ask me about Frontend Technologies
+  
 📫 How to reach me: nusrathjahansukhy@gmail.com
+  
 ⚡ Fun fact: Big fan of 🌈
 
 <br/>
